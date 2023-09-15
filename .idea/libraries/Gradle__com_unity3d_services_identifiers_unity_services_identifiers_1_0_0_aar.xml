@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.unity3d.services.identifiers:unity-services-identifiers:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5035b864bb26b2bc39b9b6a33d76545/jetified-unity-services-identifiers-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b5035b864bb26b2bc39b9b6a33d76545/jetified-unity-services-identifiers-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

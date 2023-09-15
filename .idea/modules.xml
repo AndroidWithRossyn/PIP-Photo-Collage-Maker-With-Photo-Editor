@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PiPPhotoCollageMaker.iml" filepath="$PROJECT_DIR$/.idea/modules/PiPPhotoCollageMaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PiPPhotoCollageMaker.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imageeditlibrary/PiPPhotoCollageMaker.imageeditlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

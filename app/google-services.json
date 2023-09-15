@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "996813122427",
+    "firebase_url": "https://photo-8aaf1-default-rtdb.firebaseio.com",
+    "project_id": "photo-8aaf1",
+    "storage_bucket": "photo-8aaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996813122427:android:17d38159fa26cf0b642bde",
+        "android_client_info": {
+          "package_name": "com.kessi.photopipcollagemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996813122427-59fvt4850o3deg2goc1vskv626o1c2ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCIVRz_Y6r863vmU1bMF8gtDtzDRDTBio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996813122427-59fvt4850o3deg2goc1vskv626o1c2ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996813122427:android:dd07753e5a9ebb06642bde",
+        "android_client_info": {
+          "package_name": "com.teammedia.photoeditorvn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996813122427-59fvt4850o3deg2goc1vskv626o1c2ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCIVRz_Y6r863vmU1bMF8gtDtzDRDTBio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996813122427-59fvt4850o3deg2goc1vskv626o1c2ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

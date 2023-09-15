@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tonicartos:superslim:0.4.13@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d6f057556fa0d3df8d7e68b976a30c4/jetified-superslim-0.4.13/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d6f057556fa0d3df8d7e68b976a30c4/jetified-superslim-0.4.13/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d6f057556fa0d3df8d7e68b976a30c4/jetified-superslim-0.4.13/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d6f057556fa0d3df8d7e68b976a30c4/jetified-superslim-0.4.13/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tonicartos/superslim/0.4.13/a50509988a76bf1fd5a09a0f9673492838f6670d/superslim-0.4.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tonicartos/superslim/0.4.13/6bd08c7f6f5b0926d26527f9eee7a69003d4d346/superslim-0.4.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
